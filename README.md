@@ -176,4 +176,3 @@ python manage.py runserver
 
 Ready to roll! 🚀
 
-Much more coming soon!
